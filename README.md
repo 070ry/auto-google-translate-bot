@@ -19,7 +19,8 @@ MIT License
 
 1. <a href="#1">Clone repository</a>
 2. <a href="#2">Install node module</a>
-3. <a href="#3">Run</a>
+3. <a href="#3">Update `.env` file</a>
+4. <a href="#4">Run</a>
 
 <h1 id="1">Clone repository</h1>
 
@@ -45,7 +46,17 @@ git clone https://github.com/070ry/auto-google-translate-bot.git
 
 2.Type `npm i`
 
-<h1 id="3">Run</h1>
+<h1 id="3">Update .env file</h1>
+
+1.Rename `template.env` to `.env`
+
+2.Open `.env` in your text editor
+
+3.Change the token in `.env` to your bot's token
+
+4.Save and Exit Text Editor
+
+<h1 id="4">Run</h1>
 
 - Windows
 
