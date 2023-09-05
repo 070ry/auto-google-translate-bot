@@ -55,10 +55,14 @@ Open run.bat
 
 1.Change Permission
 
-```chmod +x ~/run.sh```
+```sh
+chmod +x ~/run.sh
+```
 
 2.Run
 
-```./run.sh```
+```sh
+./run.sh
+```
 
 Done.
