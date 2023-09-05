@@ -13,7 +13,7 @@ Axios 1.5.0
 
 # License
 
-MIT
+MIT License
 
 # How to use
 
