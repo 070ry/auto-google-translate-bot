@@ -11,6 +11,10 @@ dotenv 16.1.1
 
 Axios 1.5.0
 
+# Website
+
+[070ry.pages.dev/articles/autotranslatebot](https://070ry.pages.dev/articles/autotranslatebot)
+
 # License
 
 MIT License
